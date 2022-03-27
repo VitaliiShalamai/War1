@@ -1,3 +1,8 @@
+#Junk
+.DS_Store
+.vscode/
+.idea/
+
 # Logs
 logs
 *.log
@@ -102,18 +107,3 @@ dist
 
 # TernJS port file
 .tern-port
-
-.vscode
-
-.idea
-
-.DS_Store
-
-node_modules
-
-.env
-
-/build
-
-*.psd
-
